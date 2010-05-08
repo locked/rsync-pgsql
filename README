@@ -1,0 +1,3 @@
+rsync-pgsql is just a patch for rsync to add pgsql authentification.
+
+repository management through is on the way but could take time.
